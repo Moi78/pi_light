@@ -1,0 +1,1 @@
+add_executable(light_server main.cpp LightServer.h LightServer.cpp)
